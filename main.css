@@ -14,9 +14,7 @@
     column-gap: 15.0%;
 }
 
-html {
-    overflow: hidden;
-}
+
 
 #box1 {
     display: flex;
@@ -48,9 +46,10 @@ html {
 #bigbox {
     display: flex;
     flex-direction: row;
+    justify-content: center;
     min-height: 50%;
     min-width: 50%;
-    border: 5px solid rgb(206, 34, 34);
+
 }
 
 
@@ -124,4 +123,11 @@ header {
 #login:hover {
     background: white;
     color: black;
+}
+
+#blake {
+    width: 75%;
+    height: 75%;
+    border-radius: 25px;
+    
 }
