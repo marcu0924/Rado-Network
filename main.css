@@ -95,3 +95,33 @@ header {
     display: flex;
     flex-direction: row;
 }
+
+#login {
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: none;
+    width: 200%;
+    height: 50px;
+    background: transparent;
+    border: 2px solid #fff;
+    outline: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 150%;
+    color: white;
+    font-weight: 500;
+    font-family: system-ui;
+    transition: .5s;
+    margin-top: 2%;
+
+}
+
+#login:hover {
+    background: white;
+    color: black;
+}
