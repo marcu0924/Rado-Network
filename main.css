@@ -142,7 +142,9 @@ header {
 #line2 {
     display:flex;
     color: azure;
-
-
-
+}
+#win {
+    width: 50%;
+    height: 50%;
+    border-radius: 25px;
 }
