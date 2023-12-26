@@ -131,3 +131,18 @@ header {
     border-radius: 25px;
     
 }
+#comp1 {
+    width: 75%;
+    height: 75%;
+    border-radius: 25px;
+    margin-top: 50px;
+    
+
+}
+#line2 {
+    display:flex;
+    color: azure;
+
+
+
+}
