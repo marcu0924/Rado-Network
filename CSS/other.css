@@ -14,9 +14,6 @@
     column-gap: 15.0%;
 }
 
-html {
-    overflow: hidden;
-}
 
 #box1 {
     display: flex;
