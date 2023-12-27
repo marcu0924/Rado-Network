@@ -10,7 +10,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 45%;
+    margin-left: 20%;
     column-gap: 15.0%;
 }
 
@@ -60,22 +60,21 @@
 }
 
 #pages1 {
-    display: flex;
-
     text-decoration: none;
     color: rgb(255, 255, 255);
     font-size: 250%;
     font-weight: 400;
 }
 #line1 {
+    display:flex;
     color: azure;
     justify-content: center;
     align-items: center;
 
 }
 #logo {
-    height: 400px;
-    width: 500px;
+    height: 200px;
+    width: 200px;
     padding: 50px;
     margin-left: 70%;
     
@@ -172,9 +171,3 @@ header {
 }
 
 /*custom scrollbar*/
-
-body {
-    margin: 0;
-    font-family: system-ui;
-    background-color: rgb(54, 54, 54);
-}
