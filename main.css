@@ -148,3 +148,26 @@ header {
     height: 50%;
     border-radius: 25px;
 }
+
+/*custom scrollbar*/
+
+::-webkit-scrollbar {
+    width: 2em;
+}
+/* the background for the scrollbar
+::-webkit-scrollbar-track {
+} 
+*/
+::-webkit-scrollbar-thumb {
+    background: hsl(240, 0%, 43%);
+    border-radius: 30px;
+    border: 8px solid rgb(54, 54, 54);
+    width: 5em;
+    height: 1em;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: hsl(192, 5%, 62%);
+}
+
+/*custom scrollbar*/
