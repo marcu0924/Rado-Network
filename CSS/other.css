@@ -7,16 +7,60 @@
 .bodycontainer img {
     border-radius: 20px;
     height: 10%;
-    width: 90%;
+    width: 100%;
 }
 
 .bodycontainer div {
     font-size: 100%;
-    color: white;
+    font-weight: 100;
     display: flex;
     justify-content: space-around;
     margin-bottom: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
+
+.bodycontainer h1 {
+    color: white;
+    text-align: center;
+    display: flex;
+    font-weight: normal;
+    justify-content: center;
+
+}
+
+.bodycontainer h2 {
+    color: rgb(236, 249, 250);
+    font-size: 200%;
+    font-weight: 100 bold;
+    border-bottom: 1px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*custom scrollbar*/
 

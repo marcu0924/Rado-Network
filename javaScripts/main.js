@@ -18,10 +18,26 @@ class MyHeader extends HTMLElement {
 
     </div>
 
-</header>
 
         `
     }
 }
 
 customElements.define('main-header', MyHeader)
+
+
+class MyFooter extends HTMLElement {
+    connectedCallback() {
+        this.innerHTML = `
+        <footer>
+            <div class="footer">
+                © Copyright 2024 Rado Network
+            </div>
+        </footer>
+        
+
+        `
+    }
+}
+
+customElements.define('main-footer', MyFooter)
