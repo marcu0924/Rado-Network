@@ -27,6 +27,10 @@
     display: table;
     float: left;
 }
+.logo_container a:visited a {
+    text-decoration: none;
+    color: rgb(194, 133, 92);
+}
 
 #logo {
     width: 100%;
