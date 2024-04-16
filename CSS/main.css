@@ -1,0 +1,75 @@
+body {
+	background-image: url("../images/giphy.gif");
+	background-color: none;
+	touch-action: pan-y;
+}
+
+* {
+    margin: 0;
+}
+
+
+
+#carrier {
+	float: right;
+	margin-left: 1px;
+	margin-top: 100px;
+	margin-right: 600px;
+	font-size: 200px;
+	font-family:monaco,Consolas,Lucida Console,monospace;
+	
+}
+
+#mainImg {
+	margin-left: 400px;
+	margin-top: 50px;
+	
+}
+
+#mainImg:active {
+	visibility: none;
+}
+
+.btncontainer  { 
+    width: 300px; 
+    height: 200px; 
+    border: 0; 
+    cursor: pointer; 
+    font-size: 2rem; 
+} 
+
+
+#otherimage {
+	background-image: url("images/mouse1.png");
+    background-size: cover;
+    src: ;
+	
+}
+
+#block {
+	background-image: url("images/image.png");
+	color: rgb(0, 225, 255);
+	background-color: black;
+	text-align: center;
+	margin-left: 30%;
+    margin-right: 30%;
+	font-size: 100px;
+	font-family: Papyrus,fantasy;
+	font: Papyrus;
+	font-weight: lighter;
+	float: top;
+	shape-outside: circle(50%);
+}
+
+#daas:active {
+	visibility: hidden;
+
+}
+
+.blockcontainer {
+    margin-top: 2%;
+    width: 100%;
+    background-color: rgba(255, 0, 0, 0);
+}
+
+

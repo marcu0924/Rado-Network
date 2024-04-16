@@ -1,0 +1,384 @@
+[08-Apr-2024 00:18:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'marcu0924'@'p3plzcpnl504103.prod.phx3.secureserver.net' to database 'mainDB' in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(11): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 00:19:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'marcu0924'@'localhost' to database 'mainDB' in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(11): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 00:19:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'marcu0924'@'localhost' to database 'mainDB' in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(11): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 00:23:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'marcu0924'@'localhost' to database 'mainDB' in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(11): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 00:26:39 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 17
+[08-Apr-2024 00:27:10 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 17
+[08-Apr-2024 00:28:36 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 17
+[08-Apr-2024 00:28:40 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 17
+[08-Apr-2024 00:28:47 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 17
+[08-Apr-2024 00:29:43 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 17
+[08-Apr-2024 00:29:46 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 17
+[08-Apr-2024 00:32:27 UTC] PHP Fatal error:  Cannot redeclare uidExists() (previously declared in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:48) in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 89
+[08-Apr-2024 00:32:42 UTC] PHP Fatal error:  Cannot redeclare uidExists() (previously declared in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:48) in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 89
+[08-Apr-2024 00:34:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(11): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 00:34:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(11): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 00:36:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function emptyInputSignup() in /home/tl10wbzjg32z/public_html/includes/signup.inc.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 12
+[08-Apr-2024 00:36:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(11): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 00:41:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(11): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 00:45:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'marcu0924'@'localhost' (using password: YES) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(11): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 14:19:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'marcu0924'@'localhost' (using password: YES) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(11): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 14:47:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'marcu0924'@'localhost' (using password: YES) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(11): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 14:48:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'marcu0924'@'localhost' (using password: YES) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(11): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:32:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'marcu0924'@'localhost' (using password: YES) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:32:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'marcu0924'@'localhost' (using password: YES) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:32:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'marcu0924'@'localhost' (using password: YES) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:43:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:43:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:43:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:43:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:43:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:43:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:43:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:44:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function emptyInputSignup() in /home/tl10wbzjg32z/public_html/includes/signup.inc.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 19
+[08-Apr-2024 16:44:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function emptyInputSignup() in /home/tl10wbzjg32z/public_html/includes/signup.inc.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 19
+[08-Apr-2024 16:44:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function emptyInputSignup() in /home/tl10wbzjg32z/public_html/includes/signup.inc.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 19
+[08-Apr-2024 16:44:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:44:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:46:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:46:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:46:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:51:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'marcu0924'@'localhost' (using password: YES) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:51:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'marcu0924'@'localhost' (using password: YES) in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:8
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/dbh.inc.php(8): mysqli_connect()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(15): require_once('/home/tl10wbzjg...')
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 8
+[08-Apr-2024 16:57:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersName' in 'field list' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:83
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(83): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(23): createUser()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 83
+[08-Apr-2024 16:57:21 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersName' in 'field list' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:83
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(83): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(23): createUser()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 83
+[08-Apr-2024 16:57:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersName' in 'field list' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:83
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(83): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(23): createUser()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 83
+[08-Apr-2024 17:00:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersName' in 'field list' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:83
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(83): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(23): createUser()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 83
+[08-Apr-2024 17:01:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersName' in 'field list' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:83
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(83): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(23): createUser()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 83
+[08-Apr-2024 17:02:47 UTC] PHP Warning:  Array to string conversion in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 2
+[08-Apr-2024 17:03:23 UTC] PHP Warning:  Array to string conversion in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 2
+[08-Apr-2024 17:03:23 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 25
+[08-Apr-2024 17:03:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersUid' in 'where clause' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:56
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(56): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(40): uidExists()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 56
+[08-Apr-2024 17:04:52 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 25
+[08-Apr-2024 17:04:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersUid' in 'where clause' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:56
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(56): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(40): uidExists()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 56
+[08-Apr-2024 17:19:58 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 25
+[08-Apr-2024 17:19:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersUid' in 'where clause' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:56
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(56): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(40): uidExists()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 56
+[08-Apr-2024 17:25:09 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 24
+[08-Apr-2024 17:25:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersUid' in 'where clause' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:56
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(56): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(39): uidExists()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 56
+[08-Apr-2024 17:28:20 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 24
+[08-Apr-2024 17:28:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersUid' in 'where clause' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:56
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(56): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(39): uidExists()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 56
+[08-Apr-2024 17:28:35 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 24
+[08-Apr-2024 17:28:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersUid' in 'where clause' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:56
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(56): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(39): uidExists()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 56
+[08-Apr-2024 17:29:08 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 24
+[08-Apr-2024 17:29:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersUid' in 'where clause' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:56
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(56): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(39): uidExists()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 56
+[08-Apr-2024 17:33:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersName' in 'field list' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:86
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(86): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(47): createUser()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 86
+[08-Apr-2024 17:33:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersName' in 'field list' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:86
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(86): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(47): createUser()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 86
+[08-Apr-2024 17:35:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersName' in 'field list' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:86
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(86): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(47): createUser()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 86
+[08-Apr-2024 17:35:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersName' in 'field list' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:86
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(86): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(47): createUser()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 86
+[08-Apr-2024 17:35:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersName' in 'field list' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:86
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(86): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(47): createUser()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 86
+[08-Apr-2024 17:35:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersName' in 'field list' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:86
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(86): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(47): createUser()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 86
+[08-Apr-2024 17:38:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersName' in 'field list' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:86
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(86): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(47): createUser()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 86
+[08-Apr-2024 17:45:50 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:13
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(14): require_once()
+#1 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 13
+[08-Apr-2024 18:19:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php:13
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(14): require_once()
+#1 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/dbh.inc.php on line 13
+[12-Apr-2024 16:50:22 UTC] PHP Warning:  Undefined array key "name" in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 5
+[12-Apr-2024 16:50:22 UTC] PHP Warning:  Undefined array key "email" in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 6
+[12-Apr-2024 16:50:22 UTC] PHP Warning:  Undefined array key "uid" in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 7
+[12-Apr-2024 16:50:22 UTC] PHP Warning:  Undefined array key "pwd" in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 8
+[12-Apr-2024 16:50:22 UTC] PHP Warning:  Undefined array key "pwdrepeat" in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 9
+[13-Apr-2024 19:18:41 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 24
+[13-Apr-2024 19:18:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersUid' in 'where clause' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:56
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(56): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(39): uidExists()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 56
+[13-Apr-2024 19:21:35 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 25
+[13-Apr-2024 19:21:54 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 25
+[13-Apr-2024 19:21:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersUid' in 'where clause' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:56
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(56): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(40): uidExists()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 56
+[13-Apr-2024 19:44:44 UTC] PHP Warning:  Undefined array key "uid" in /home/tl10wbzjg32z/public_html/includes/login.inc.php on line 6
+[13-Apr-2024 19:44:44 UTC] PHP Warning:  Undefined array key "pwd" in /home/tl10wbzjg32z/public_html/includes/login.inc.php on line 7
+[13-Apr-2024 19:45:42 UTC] PHP Warning:  Undefined array key "uid" in /home/tl10wbzjg32z/public_html/includes/login.inc.php on line 6
+[13-Apr-2024 19:45:42 UTC] PHP Warning:  Undefined array key "pwd" in /home/tl10wbzjg32z/public_html/includes/login.inc.php on line 7
+[13-Apr-2024 19:45:46 UTC] PHP Warning:  Undefined array key "uid" in /home/tl10wbzjg32z/public_html/includes/login.inc.php on line 6
+[13-Apr-2024 19:45:46 UTC] PHP Warning:  Undefined array key "pwd" in /home/tl10wbzjg32z/public_html/includes/login.inc.php on line 7
+[13-Apr-2024 19:45:47 UTC] PHP Warning:  Undefined array key "uid" in /home/tl10wbzjg32z/public_html/includes/login.inc.php on line 6
+[13-Apr-2024 19:45:47 UTC] PHP Warning:  Undefined array key "pwd" in /home/tl10wbzjg32z/public_html/includes/login.inc.php on line 7
+[13-Apr-2024 19:45:59 UTC] PHP Warning:  Undefined array key "uid" in /home/tl10wbzjg32z/public_html/includes/login.inc.php on line 6
+[13-Apr-2024 19:45:59 UTC] PHP Warning:  Undefined array key "pwd" in /home/tl10wbzjg32z/public_html/includes/login.inc.php on line 7
+[15-Apr-2024 00:24:13 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 25
+[15-Apr-2024 00:24:58 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 25
+[15-Apr-2024 00:24:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersUid' in 'where clause' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:56
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(56): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(40): uidExists()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 56
+[15-Apr-2024 00:35:33 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 25
+[15-Apr-2024 00:35:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersUid' in 'where clause' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:56
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(56): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(40): uidExists()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 56
+[15-Apr-2024 00:36:53 UTC] PHP Warning:  Undefined variable $uid in /home/tl10wbzjg32z/public_html/includes/signup.inc.php on line 25
+[15-Apr-2024 00:36:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'usersUid' in 'where clause' in /home/tl10wbzjg32z/public_html/includes/functions.inc.php:56
+Stack trace:
+#0 /home/tl10wbzjg32z/public_html/includes/functions.inc.php(56): mysqli_stmt_prepare()
+#1 /home/tl10wbzjg32z/public_html/includes/signup.inc.php(40): uidExists()
+#2 {main}
+  thrown in /home/tl10wbzjg32z/public_html/includes/functions.inc.php on line 56
